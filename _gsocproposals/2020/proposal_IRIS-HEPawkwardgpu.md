@@ -1,9 +1,9 @@
 ---
 title: Awkward Array GPU kernels
 layout: gsoc_proposal
-project: IRIS-HEP
+project: IRISHEP
 year: 2020
-organization: princeton
+organization: Princeton
 ---
 
 ## Description
